@@ -1,0 +1,15 @@
+team15\homelessappclient\util\Constants.class
+team15\homelessappclient\HomelessAppClientApplication.class
+team15\homelessappclient\model\UserRole.class
+team15\homelessappclient\util\HttpHelper.class
+team15\homelessappclient\model\AppService.class
+team15\homelessappclient\util\ErrorHandlingUtil.class
+team15\homelessappclient\model\ServiceCategory.class
+team15\homelessappclient\client\ApiClient.class
+team15\homelessappclient\model\VisitLog.class
+team15\homelessappclient\model\City.class
+team15\homelessappclient\model\Feedback.class
+team15\homelessappclient\model\ServiceAvailability.class
+team15\homelessappclient\model\User.class
+team15\homelessappclient\util\ApiConfig.class
+team15\homelessappclient\util\JsonHelper.class
